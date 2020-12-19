@@ -1,3 +1,3 @@
 # node-ngx
 
-Nginx image with NodeJS and npm preinstalled.
+Nginx image with NodeJS, typescript and npm preinstalled.
